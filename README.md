@@ -90,25 +90,6 @@ Passionate about integrating **AI into projects using Gemini APIs and Hugging Fa
 
 ---
 
-### 🛠️ Projects  
-#### **Content Summarizer**  
-- A full-stack app using Gemini-2.0-Flash AI to summarize text/PDFs.  
-- **Tech:** React, TypeScript, Tailwind CSS, Express.js, Vercel  
-- 🔗 [Live](https://content-summarizer-app.vercel.app) • 💻 [Code](https://github.com/shkaisar/content-summarizer)
-
-#### **Tour Management System – Backend**  
-- Role-based backend with JWT auth, Zod validation, and SSLCommerz payments.  
-- **Tech:** Express.js, TypeScript, Mongoose, MVC Pattern  
-- 💻 [Code](https://github.com/shkaisar/tour-management-backend)
-
-#### **KaporBazaar (E-commerce)**  
-- MERN stack e-commerce site with Stripe payments and JWT auth.  
-- **Tech:** MERN, Stripe, Tailwind CSS  
-- 🔗 [Live](https://kaporbazaar-client.vercel.app) • 💻 [Code](https://github.com/shkaisar/kaporbazaar)
-
-[View All Projects →](https://shahidullah-kaisar.netlify.app/)  
-
----
 
 ### 💡 Problem Solving  
 - **Codeforces:** 600+ problems (Highest Rating: 1113)  

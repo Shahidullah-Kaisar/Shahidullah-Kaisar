@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Shahidullah Kaisar</h1>
-<h3 align="center">Aspiring Full Stack Developer | MERN Stack | Spring Boot | PostgreSQL | AI Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack | PostgreSQL | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://shahidullah-kaisar.netlify.app/" target="_blank">Portfolio</a> •
@@ -13,98 +13,207 @@
 ---
 
 ### 🚀 About Me  
-Aspiring full stack developer working with the **MERN stack**, **Java (Spring Boot)**, and **PostgreSQL**.  
-Enjoys solving problems on **LeetCode** and **Codeforces** to sharpen skills.  
-Passionate about integrating **AI into projects using Gemini APIs and Hugging Face** to build smart, efficient applications.
-
+Aspiring full stack developer working with the **MERN stack** and **PostgreSQL**.  
+Enjoys solving problems on **LeetCode** and **Codeforces** to sharpen problem-solving skills.  
+Passionate about integrating **AI into applications using Gemini APIs and Hugging Face** to build smart systems.
 
 ---
 
 ### 🎓 Education  
-- **Jahangirnagar University**  
-  Bachelor of Science in ICT - CGPA: 3.49 (Up to 5th Semester)  
-- **Adarsha College, Dinajpur**  
-  Higher Secondary School Certificate (HSC) - GPA: 5.00  
+- **Jahangirnagar University** — Bachelor of Science in ICT  
+  CGPA: **3.49** (Up to 5th Semester)  
+
+- **Adarsha College, Dinajpur** — Higher Secondary Certificate (HSC)  
+  GPA: **5.00**
 
 ---
 
 ### 💻 Skills
 
-#### 🚀 Programming Languages
-| | |
-|------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> | C |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | C++ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | Java |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | JavaScript |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> | TypeScript |
+<table width="100%" cellspacing="10">
+<tr>
 
-#### 🎨 Frontend Development
-| | |
-|------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> | React.js |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30" style="background:white"/> | Next.js |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30"/> | Redux |
-| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> | Tailwind CSS |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> | Bootstrap |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> | HTML5 |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> | CSS3 |
+<td width="25%" valign="top">
 
-#### 🛠️ Backend Development
-| | |
-|------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> | Node.js |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" style="background:white"/> | Express.js |
-| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/> | Spring Boot |
+<strong>Languages</strong>
 
-#### 🗄️ Databases
-| | |
-|------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> | MongoDB |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> | MySQL |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> | PostgreSQL |
+<table cellpadding="6">
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22"/></td>
+<td>C</td>
+</tr>
 
-#### 🧰 Tools & Platforms
-| | |
-|------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> | Git |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> | GitHub |
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> | Firebase |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> | VS Code |
-| <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="30"/> | IntelliJ IDEA |
-| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> | Postman |
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/></td>
+<td>C++</td>
+</tr>
 
-#### 🧠 AI Tools
-| | |
-|------|------|
-| <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30"/> | Hugging Face |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" width="30"/> | Gemini AI |
-| <img src="https://lovable.app/favicon.ico" width="30"/> | Lovable AI |
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22"/></td>
+<td>Java</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/></td>
+<td>JavaScript</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22"/></td>
+<td>TypeScript</td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%" valign="top">
+
+<strong>Frontend</strong>
+
+<table cellpadding="6">
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/></td>
+<td>React</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22"/></td>
+<td>Next.js</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="22"/></td>
+<td>Redux</td>
+</tr>
+
+<tr>
+<td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="22"/></td>
+<td>Tailwind</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="22"/></td>
+<td>Bootstrap</td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="25%" valign="top">
+
+<strong>Backend</strong>
+
+<table cellpadding="6">
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22"/></td>
+<td>Node.js</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="22"/></td>
+<td>Express</td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="25%" valign="top">
+
+<strong>Database</strong>
+
+<table cellpadding="6">
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22"/></td>
+<td>MongoDB</td>
+</tr>
+
+<tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/></td>
+  <td>MySQL</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22"/></td>
+<td>PostgreSQL</td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%" valign="top">
+
+<strong>Tools
+
+<table cellpadding="6">
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/></td>
+<td>Git</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/></td>
+<td>GitHub</td>
+</tr>
+
+<tr>
+<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="22"/></td>
+<td>Postman</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22"/></td>
+<td>VS Code</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 ### 🏆 Achievements  
 - **JavaFeast Hackathon 2025:** Selected in Preliminary and Project Proposal Round  
-- **IEEEXtreme 16.0 Programming Competition 2022:** Ranked 17th (Bangladesh)  
+- **IEEEXtreme 16.0 Programming Competition 2022:** Ranked **17th (Bangladesh)**  
 - **ICPC 2021 Preliminary Contest:** National Round Participant  
 
 ---
 
-
 ### 💡 Problem Solving  
-- **Codeforces:** 600+ problems (Highest Rating: 1113)  
-  - 🔗 [Profile](https://codeforces.com/profile/Sh_Kaisar)
+- **Codeforces:** 600+ problems (Highest Rating: **1113**)  
+  🔗 https://codeforces.com/profile/Sh_Kaisar  
+
 - **LeetCode:** 60+ problems  
-  - 🔗 [Profile](https://leetcode.com/u/Sh_Kaisar/)
-- **CodeChef:** 31+ problems (Highest Rating: 1167)  
-  - 🔗 [Profile](https://www.codechef.com/users/shkaisar)
-- **Total Solved:** 900+ problems across platforms  
+  🔗 https://leetcode.com/u/Sh_Kaisar/  
+
+- **CodeChef:** 31+ problems (Highest Rating: **1167**)  
+  🔗 https://www.codechef.com/users/shkaisar  
+
+**Total Solved:** 900+ problems across platforms  
 
 ---
 
 ### 🌐 Connect With Me  
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/shkaisar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/shahidullah.kaisar.7399/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="mailto:shkaisar2002@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shkaisar/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.facebook.com/shahidullah.kaisar.7399/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+
+<a href="mailto:shkaisar2002@gmail.com">
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
+</a>
 </p>
